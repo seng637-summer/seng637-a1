@@ -1,6 +1,6 @@
 **SENG 637 - Dependability and Reliability of Software Systems**
 >   **Assignment \#1**
->   **Introduction to Testing and Defect (Bug) Tracking**
+>   **Introduction to Testing and Defect (Bug) Tracking**  
 >   Instructor: Somaye Modaberi (somayeh.modberi@ucalgary.ca)
 >   Department of Electrical and Software Engineering
 >   University of Calgary
