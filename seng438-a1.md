@@ -2,8 +2,7 @@
 >   **Assignment \#1**
 >   **Introduction to Testing and Defect (Bug) Tracking**
 >   Instructors: 
->   -   Dr. Behrouz Far (far@ucalgary.ca)
->   -   Dr. Kangsoo Kim (kangsoo.kim@ucalgary.ca)
+>   -   Somayeh Modaberi (somayeh.modaberi@ucalgary.ca)
 >   Department of Electrical and Software Engineering
 >   University of Calgary
 
