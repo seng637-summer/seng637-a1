@@ -200,9 +200,7 @@ To be consistent, please use the template markdown file “seng438-1-team_number
 | A high-level description of the exploratory testing plan                                                                                                                            | 10%  |
 | A comparison of exploratory and manual functional testing (based on the provided test suite) from several perspectives (e.g., benefits, tradeoffs, effectiveness, efficiency, etc.) | 15% |
 | Notes and discussion of the peer reviews of defect reports created by each pair in a group.                                                                                         | 5%  |
-
-| Any lessons learned from your teamwork on this lab?                                                                                                                                 | 5%  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Any lessons learned from your teamwork on this lab?                                                                                                                                 | 5%  |  
 | Any difficulties encountered, challenges overcome, and lessons learned from performing the lab                                                                                      | 5%  |
   
 
